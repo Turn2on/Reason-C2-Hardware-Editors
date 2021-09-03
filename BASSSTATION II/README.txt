@@ -1,4 +1,5 @@
-Novation Bass Station II Editor for Reason
+Novation Bass Station II Editor for Reason. (Build by Turn2on, 1 september 2021)
+
 Based on the MIDI OUT DEVICE (stck Reason device). For using it, select actual Midi output device into the DEVICES mode)
 
 BASS STATION II Combinator 2.0 editor created by Turn2on Software and can be used for free.

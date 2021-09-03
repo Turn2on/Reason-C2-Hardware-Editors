@@ -3,7 +3,7 @@ Based on the MIDI OUT DEVICE (stck Reason device). For using it, select actual M
 
 BASS STATION II Combinator 2.0 editor created by Turn2on Software and can be used for free.
 
-Add one, or all COmbinator patches to the Reason rack:
+Add one, or all Combinator patches to the Reason rack:
 - NOVATION BASS STATION II (OSC+FLTR).cmb : Controller panel of Oscillators and Filter section of Bass Station 2 Synthesizer
 - NOVATION BASS STATION II (ARP+ENV).cmb : Controller panel of ARP and Envelope section of Bass Station 2 Synthesizer
 - NOVATION BASS STATION II (LFO+MAIN).cmb : Controller panel of LFO and Main sections of Bass Station 2 Synthesizer

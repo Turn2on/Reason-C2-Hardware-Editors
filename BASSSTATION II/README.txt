@@ -14,13 +14,6 @@ All product names, trademarks and registered trademarks,  brands are the propert
 Controller panel include logotypes, trademarks only to idnetify hardware synthesizer for what panel was been created
 *** 
 
-Combinator files can’t be edited (backdrops changed to new one) and used for the Commercial use (sale new patches based on this Combinator patch)
-
-***
-
-TRY OUR RACKEXTENSIONS, DOWNLOAD THIS COMBINATOR EDITOR AND OTHERS AT OUR SITE:
-https://turn2on.com/combinators/
----------------------------------------------------------
 TURN2ON SOFTWARE:
 https://turn2on.com/
 

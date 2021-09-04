@@ -13,6 +13,9 @@ https://www.eventideaudio.com/products/stompboxes/reverb/space
 - KORG NTS-1 Digital: Editor for Korg NTS-1 synthesizer
 https://www.korg.com/us/products/dj/nts_1/
 
+- BOSS DD-200 Digital Delay pedal
+https://www.boss.info/ru/products/dd-200/
+
 
 Reason: moderm DAW from ReasonStudios, based on the virtual rack. Reason 12 suppport Combinator 2,0 patches.
 https://reasonstudios.com
